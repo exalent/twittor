@@ -1,7 +1,7 @@
 {
     "short_name": "twittor",
     "name": "twittor de avegers",
-    "start_url": "/sw/06-twittor/index.html",
+    "start_url": "index.html",
     "backgraund_color": "#3498db",
     "display":"standalone",
     "theme_color": "#3498db",
